@@ -87,6 +87,10 @@ h3 { margin-top: 0; }
 .button.ghost { background: rgba(255,255,255,0.04); }
 
 .section { padding: 3.5rem 0; }
+.section.compact { padding: 1.1rem 0; }
+.facts-card { margin-top: 0; }
+.support-card h2 { font-size: 1.35rem; margin-bottom: 0.4rem; }
+.support-card code { color: var(--teal); overflow-wrap: anywhere; }
 .section.alt .card { background: var(--panel-strong); }
 .section-head { max-width: 780px; margin-bottom: 1.4rem; }
 .section-head p { color: var(--muted); }
