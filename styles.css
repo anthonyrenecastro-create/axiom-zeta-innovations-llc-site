@@ -153,3 +153,7 @@ footer {
   .grid.three, .grid.two, .facts { grid-template-columns: 1fr; }
   .hero { padding-top: 3rem; }
 }
+
+.price-line { font-size: 1.1rem; margin: 12px 0 4px; }
+.fineprint { font-size: 0.78rem; color: var(--muted); line-height: 1.6; margin-top: 12px; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.75rem; color: var(--muted); margin: 0 0 8px; }
